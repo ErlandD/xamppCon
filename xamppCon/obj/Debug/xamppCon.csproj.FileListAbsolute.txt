@@ -1,0 +1,5 @@
+C:\Library\xamppCon\xamppCon\bin\Debug\xamppCon.dll
+C:\Library\xamppCon\xamppCon\bin\Debug\xamppCon.pdb
+C:\Library\xamppCon\xamppCon\obj\Debug\xamppCon.csprojResolveAssemblyReference.cache
+C:\Library\xamppCon\xamppCon\obj\Debug\xamppCon.dll
+C:\Library\xamppCon\xamppCon\obj\Debug\xamppCon.pdb
