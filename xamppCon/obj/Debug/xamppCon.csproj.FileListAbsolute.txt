@@ -1,0 +1,14 @@
+C:\Library\xamppCon\xamppCon\bin\Debug\xamppCon.dll
+C:\Library\xamppCon\xamppCon\bin\Debug\xamppCon.pdb
+C:\Library\xamppCon\xamppCon\obj\Debug\xamppCon.csprojResolveAssemblyReference.cache
+C:\Library\xamppCon\xamppCon\obj\Debug\xamppCon.dll
+C:\Library\xamppCon\xamppCon\obj\Debug\xamppCon.pdb
+D:\xamppCon-master\xamppCon\obj\Debug\xamppCon.csproj.CoreCompileInputs.cache
+D:\xamppCon-master\xamppCon\obj\Debug\xamppCon.dll
+D:\xamppCon-master\xamppCon\obj\Debug\xamppCon.pdb
+D:\xamppCon-master\xamppCon\bin\Debug\xamppCon.dll
+D:\xamppCon-master\xamppCon\bin\Debug\xamppCon.pdb
+D:\xamppCon-master\xamppCon\bin\Debug\MySql.Data.dll
+D:\xamppCon-master\xamppCon\bin\Debug\Google.Protobuf.dll
+D:\xamppCon-master\xamppCon\bin\Debug\MySql.Data.xml
+D:\xamppCon-master\xamppCon\obj\Debug\xamppCon.csproj.CopyComplete
